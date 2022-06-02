@@ -14,6 +14,8 @@ $ go get -u github.com/sudoLife/shopify
 ### Example
 
 ``` go
+package main
+
 import (
 	"encoding/json"
 	"os"
